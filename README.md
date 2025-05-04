@@ -1,7 +1,6 @@
 # 3D Portfolio Website
 
-![Website Preview](assets/AKpothomepage.png)
-
+![3D Portfolio](https://github.com/Arunkumar200103/AK-Portfolio/assets/50835817/Akpothomepage)
 
 Welcome to my captivating 3D portfolio website project! Harnessing the power of cutting-edge technologies, I've crafted a mesmerizing and responsive portfolio site that's not just visually stunning but also incredibly easy for anyone to personalize.
 
