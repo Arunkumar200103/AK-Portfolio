@@ -144,7 +144,7 @@ const experiences = [
     company_website: "https://www.thiran360ai.com/", // Update if the official site is different
     icon: Thiran360AI, // Replace with your actual import or icon
     iconBg: "#E6DEDD",
-    date: "Nov 2024 - present 2025",
+    date: "Oct 2024 - present 2025",
     points: [
       "Developed responsive and reusable UI components using React.js for multiple real-world applications.",
       "Built and integrated RESTful APIs using Spring Boot for full-stack functionality.",
@@ -177,7 +177,7 @@ const experiences = [
     company_website: "https://www.devtown.in/", // Official site
     icon: devtown, // Replace with your actual logo/icon import for DevTown
     iconBg: "#E6DEDD",
-    date: "Oct 2024 - Dec 2024",
+    date: "Oct 2023 - Dec 2023",
     points: [
       "Completed a 3-month internship focused on modern web development practices.",
       "Built responsive web pages using HTML5, CSS3, JavaScript, and React.js.",
@@ -295,7 +295,7 @@ const personalInfo = {
 
 const publicUrls = {
   resume:
-    "https://drive.google.com/file/d/1vmiPiCLaCuqM0uuDcXQlAd8pY8djkdyBDEOU/view?usp=sharing",
+    "https://drive.google.com/file/d/1FZxhklcAWKohjhpYWom7QaHg0m1h3GOo/view?usp=drivesdk",
   socialProfiles: {
     linkedin: {
       title: "linkedin",
