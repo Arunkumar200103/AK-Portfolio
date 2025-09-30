@@ -277,7 +277,7 @@ const projects = [
 ];
 
 const personalInfo = {
-  name: "Arunkumar",
+  name: "Arunkumar S",
   fullName: "Arunkumar S",
   email: "arun.skpani@gmail.com", 
   role: "Full Stack Developer",
